@@ -1,2 +1,2 @@
-# contanct-form
-# contanct-form
+# contact-form
+# contact-form
